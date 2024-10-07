@@ -1,7 +1,11 @@
 ## Method Demonstration Console Application
 This C# console application demonstrates the use of various types of methods, including void, returning values, and methods with parameters taught in Patika+ Back-End Path Week 2.
 
-#### Features
+#### Sample Screenshot
+![ss](https://github.com/user-attachments/assets/f8d90491-aa28-45c4-9e99-fc66e8bff4bd)
+
+#### Features 
+
 The application contains four methods:
 
 - 1- Void Method (No return value):
